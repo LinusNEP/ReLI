@@ -1,6 +1,7 @@
 # ReLI: A Language-Agnostic Approach to Human-Robot Interaction
 
 [![ReLI](https://img.shields.io/badge/ReLI%20-Website-lightblue?style=flat&logo=globe&logoColor=white)](https://sites.google.com/view/relimultlingual/overview)
+[![Paper](https://img.shields.io/badge/Paper-ArXiv-orange.svg)](https://arxiv.org/abs/2505.01862v3)
 [![ROS 1](https://img.shields.io/badge/ROS-Noetic-brightgreen.svg)](http://www.ros.org/)
 [![ROS 2](https://img.shields.io/badge/ROS%202-Humble-blue.svg)](https://index.ros.org/doc/ros2/)
 [![Python](https://img.shields.io/badge/Python-≥3.8-blue.svg)](https://www.python.org/)
@@ -10,6 +11,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/LinusNEP/ReLI.svg)](https://linusnep.github.io/ReLI/commits)
 
 ![https://github.com/LinusNEP/ReLI/blob/main/docs/reli.gif](https://github.com/LinusNEP/ReLI/blob/main/docs/reli.gif)
+
 **ReLI** (Regardless of the Language of task Instructions) is a multilingual framework that enables autonomous agents to converse naturally, semantically reason about their environment, and perform downstream tasks regardless of the task instruction's modality or linguistic origin.
 
 ## 🌟 Key Features
