@@ -120,15 +120,4 @@ roslaunch reli_ros reli_chatGUI.launch
    - **Text:** Type commands in your preferred language
    - **Speech:** Use microphone for voice commands
 
-### Customising Destinations
-Define robot-relevant spaces (rooms, locations, zones) in `reli_config.yaml`:
-```yaml
-destinations:
-  living_room:
-    display_name: "Living Room"
-    aliases: ["lounge", "sitting area"]
-    coords: {x: 1.0, y: 2.5, z: 0.0}
-```
-Destinations are automatically interpreted by the Action Executor and used for navigation planning.
-
 
