@@ -1,4 +1,4 @@
-# From Any Language to Robot Action: A Language-Agnostic Approach to Human-Agent Interaction
+# ReLI: A Language-Agnostic Approach to Human-Robot Interaction
 [![ReLI](https://img.shields.io/badge/ReLI%20-Website-lightblue?style=flat&logo=globe&logoColor=white)](https://sites.google.com/view/relimultlingual/overview)
 [![ROS 1](https://img.shields.io/badge/ROS-Noetic-brightgreen.svg)](http://www.ros.org/)
 [![ROS 2](https://img.shields.io/badge/ROS%202-Humble-blue.svg)](https://index.ros.org/doc/ros2/)
@@ -8,10 +8,33 @@
 [![GitHub Stars](https://img.shields.io/github/stars/LinusNEP/ReLI?style=social)](https://linusnep.github.io/ReLI/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/LinusNEP/ReLI.svg)](https://linusnep.github.io/ReLI/commits)
 
-## Note: The codes will be made public soon after the peer review process is complete
+**ReLI** (Regardless of the Language of task Instructions) is a lingual-agnostic framework that enables autonomous agents to converse naturally, semantically reason about their environment, and perform downstream tasks, **regardless of the task instruction's modality or linguistic origin**.
+
+## 🌟 Key Features
+
+- **🌍 Language-Agnostic Interaction**: Supports 140+ languages, including high-resource, low-resource, and vulnerable languages
+- **🎯 Multimodal Input**: Text and speech commands in any supported language
+- **🤖 Real-World Robotic Affordances**: Grounds linguistic commands into executable robot actions
+- **🧠 Advanced Perception**: Integrates CLIP, SAM, and MiDaS for robust visuo-lingual reasoning
+- **⚡ High Performance**: Achieves >90% accuracy in multilingual instruction parsing and task execution
+- **🔒 Safety-First**: User confirmation mechanism for critical actions
+
+## 🎯 What ReLI Solves
+
+Traditional human-robot interaction frameworks are constrained by:
+- ❌ Language-specific training (primarily high-resource languages)
+- ❌ Limited cross-lingual generalisation
+- ❌ Inability to handle diverse linguistic backgrounds
+
+ReLI breaks these barriers by:
+- ✅ Exploiting cross-lingual capabilities of foundation models
+- ✅ Supporting endangered languages, Creoles, and Vernaculars
+- ✅ Enabling natural free-form conversation in any language
 
 ## 🚀 Getting Started
 To reproduce the experiments and demos shown on the [project website](https://sites.google.com/view/relimultlingual/overview), we recommend following the installation instructions provided at [GETTING-STARTED.md](docs/GETTING-STARTED.md).
+
+**Note: The codes will be made public soon after the peer review process is complete**
 
 ## 📝 Citation
 If you use ReLI in your research, consider citing our paper:
@@ -40,11 +63,9 @@ We welcome contributions! Please see our [Contributing Guidelines](https://...) 
 This work is licensed under a [Creative Commons Attribution International 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 ## 🙏 Acknowledgments
-- This work was supported by the xxxxxx organisation
-- Built upon foundational research in human-robot interaction and continual learning
-- Uses open-source components including ROS, PyTorch, and various foundation models
+This work was supported as part of the "MINEVIEW" project, funded by the Republic of Austria, Federal Ministry of Climate Action, Environment, Innovation and Technology.
 
-**Repository:**
+**Repositories:**
 - [TCC](https://github.com/LinusNEP/TCC-IRoNL)
 - [ROMR](https://github.com/LinusNEP/ROMR.git)
 - [Unitree_ros](https://github.com/macc-n/ros_unitree.git)
