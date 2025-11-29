@@ -16,24 +16,24 @@
 
 ## 🌟 Key Features
 
-- **🌍 Language-Agnostic Interaction**: Supports 140+ languages, including high-resource, low-resource, and vulnerable languages
-- **🎯 Multimodal Input**: Text and speech commands in any supported language
-- **🤖 Real-World Robotic Affordances**: Grounds linguistic commands into executable robot actions
-- **🧠 Advanced Perception**: Integrates CLIP, SAM, and MiDaS for robust visuo-lingual reasoning
-- **⚡ High Performance**: Achieves >90% accuracy in multilingual instruction parsing and task execution
-- **🔒 Safety-First**: User confirmation mechanism for critical actions
+- **Language-Agnostic Interaction**: Supports 140+ languages, including high-resource, low-resource, and vulnerable languages
+- **Multimodal Input**: Text and speech commands in any supported language
+- **Real-World Robotic Affordances**: Grounds linguistic commands into executable robot actions
+- **Advanced Perception**: Integrates CLIP, SAM, and MiDaS for robust visuo-lingual reasoning
+- **High Performance**: Achieves >90% accuracy in multilingual instruction parsing and task execution
+- **Safety-First**: User confirmation mechanism for critical actions
 
 ## 🎯 What ReLI Solves
 
 Traditional human-robot interaction frameworks are constrained by:
-- ❌ Language-specific training (primarily high-resource languages)
-- ❌ Limited cross-lingual generalisation
-- ❌ Inability to handle diverse linguistic backgrounds
+-  Language-specific training (primarily high-resource languages)
+-  Limited cross-lingual generalisation
+-  Inability to handle diverse linguistic backgrounds
 
 ReLI solves these challenges by:
-- ✅ Exploiting cross-lingual capabilities of foundation models
-- ✅ Supporting endangered languages, Creoles, and Vernaculars
-- ✅ Enabling natural free-form conversation in any language
+-  Exploiting cross-lingual capabilities of foundation models
+-  Supporting endangered languages, Creoles, and Vernaculars
+-  Enabling natural free-form conversation in any language
 
 ## 🚀 Getting Started
 To reproduce the experiments and demos shown on the [project website](https://sites.google.com/view/relimultlingual/overview), we recommend following the installation instructions provided at [GETTING-STARTED.md](docs/GETTING-STARTED.md).
