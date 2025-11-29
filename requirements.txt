@@ -1,0 +1,63 @@
+# --- Core Python dependencies ---
+numpy
+scipy
+scikit-learn
+matplotlib
+pillow
+tqdm
+regex
+ftfy
+requests
+jsonschema
+python-dateutil
+pyyaml
+psutil
+
+# --- Deep Learning ---
+torch
+torchvision
+torchaudio
+
+# --- Sentence embeddings & Transformers ---
+sentence-transformers
+transformers
+
+# --- Vision Models: SAM, CLIP, MiDaS ---
+segment-anything
+opencv-python
+opencv-contrib-python
+git+https://github.com/openai/CLIP.git
+
+# --- Multilingual Text Processing ---
+sacremoses
+bert-score
+sacrebleu
+
+# --- Audio & Speech ---
+gTTS
+SpeechRecognition
+pyttsx3
+pyaudio
+
+# --- GUI / Interface ---
+tk
+
+# --- LLM Providers ---
+openai
+google-generativeai
+anthropic
+cohere
+huggingface_hub
+llama-cpp-python
+ollama
+
+# --- ROS & Robotics Tools ---
+rospkg
+catkin_pkg
+
+# --- Geometric reasoning and Spatial processing ---
+filterpy
+
+# --- Utilities ---
+psutil
+
