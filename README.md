@@ -68,7 +68,7 @@ This work is licensed under a [Creative Commons Attribution International 4.0 Li
 ## 🙏 Acknowledgments
 This work was supported as part of the "MINEVIEW" project, funded by the Republic of Austria, Federal Ministry of Climate Action, Environment, Innovation and Technology.
 
-**Repositories:**
+**Thanks to the repositories:**
 - [TCC](https://github.com/LinusNEP/TCC-IRoNL)
 - [ROMR](https://github.com/LinusNEP/ROMR.git)
 - [Unitree_ros](https://github.com/macc-n/ros_unitree.git)
