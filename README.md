@@ -11,9 +11,9 @@
 
 ![https://github.com/LinusNEP/ReLI/blob/main/docs/reli.gif](https://github.com/LinusNEP/ReLI/blob/main/docs/reli.gif)
 
-**ReLI** (Regardless of the Language of task Instructions) is a multilingual framework that enables autonomous agents to converse naturally, semantically reason about their environment, and perform downstream tasks regardless of the task instruction's modality or linguistic origin.
+> **ReLI** (Regardless of the Language of task Instructions) is a multilingual framework that enables autonomous agents to converse naturally, semantically reason about their environment, and perform downstream tasks regardless of the task instruction's modality or linguistic origin.
 
-## 🌟 Key Features
+## Key Features
 
 - **Language-Agnostic Interaction**: Supports 140+ languages, including high-resource, low-resource, and vulnerable languages
 - **Multimodal Input**: Text and speech commands in any supported language
@@ -22,7 +22,7 @@
 - **High Performance**: Achieves >90% accuracy in multilingual instruction parsing and task execution
 - **Safety-First**: User confirmation mechanism for critical actions
 
-## 🎯 What ReLI Solves
+## What ReLI Solves
 
 Traditional human-robot interaction frameworks are constrained by:
 -  Language-specific training (primarily high-resource languages)
@@ -34,12 +34,12 @@ ReLI solves these challenges by:
 -  Supporting endangered languages, Creoles, and Vernaculars
 -  Enabling natural free-form conversation in any language
 
-## 🚀 Getting Started
+## Getting Started
 To reproduce the experiments and demos shown on the [project website](https://sites.google.com/view/relimultlingual/overview), we recommend following the installation instructions provided at [GETTING-STARTED.md](docs/GETTING-STARTED.md).
 
 **Note: The codes will be made public soon after the peer review process is complete**
 
-## 📝 Citation
+## Citation
 If you use ReLI in your research, consider citing our paper:
 ```bibtex
 @misc{nwankwo2025relilanguageagnosticapproachhumanrobot,
@@ -52,7 +52,7 @@ If you use ReLI in your research, consider citing our paper:
       url={https://arxiv.org/abs/2505.01862}, 
 }
 ```
-## 🤝 Contributing
+## Contributing
 We welcome contributions! Please see our [Contributing Guidelines](https://...) for details.
 
 ### Development Setup
@@ -62,10 +62,10 @@ We welcome contributions! Please see our [Contributing Guidelines](https://...) 
 4.  Push to branch: `git push origin feature/amazing-feature`
 5.  Open a Pull Request
 
-## 📄 License
+## License
 This work is licensed under a [Creative Commons Attribution International 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 This work was supported as part of the "MINEVIEW" project, funded by the Republic of Austria, Federal Ministry of Climate Action, Environment, Innovation and Technology.
 
 **Thanks to the repositories:**
